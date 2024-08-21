@@ -3,7 +3,7 @@
 Sou graduanda em Sistemas de informação pela Universidade Federal de Ouro preto e estagiária de Tecnologia da Informação no Sicoob Credimepi
 
 
-🔭 Minhas estatísticas
+🔭 Minhas estatísticas <br>
 <div>
 <a href="https://github.com/anaflaviapizati">
 <img loading="lazy" height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaflaviapizati&layout=compact&langs_count=7&theme=dracula"/>
@@ -14,7 +14,7 @@ Sou graduanda em Sistemas de informação pela Universidade Federal de Ouro pret
 
 
 📫 Contate-me! <br><br>
-<a href = "mailto:contato@anaflaviapizati"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:anaflaviapizati@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/anaflaviapizati" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
