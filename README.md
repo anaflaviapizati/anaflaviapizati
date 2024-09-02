@@ -1,6 +1,6 @@
 ### Olá, me chamo Ana Flávia👋
 
-Sou graduanda em Sistemas de informação pela Universidade Federal de Ouro preto e estagiária de Tecnologia da Informação no Sicoob Credimepi
+Sou graduanda em Sistemas de Informação pela Universidade Federal de Ouro Preto e estagiária de Tecnologia da Informação no Sicoob Credimepi
 
 <!--
 🔭 Minhas estatísticas <br>
