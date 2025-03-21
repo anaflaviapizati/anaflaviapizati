@@ -2,9 +2,6 @@
 
 Sou graduanda em Sistemas de Informação pela Universidade Federal de Ouro Preto e estagiária de Tecnologia da Informação no Sicoob Credimepi  
 
-![Anaflaviapizati's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaflaviapizati&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaflaviapizati&layout=compact&theme=dracula)  
-
 ## 🚀 Tecnologias que uso:  
 
 ### 🛠 Backend  
