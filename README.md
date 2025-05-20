@@ -22,7 +22,7 @@ Sou graduanda em Sistemas de Informação pela Universidade Federal de Ouro Pret
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 Contribuições no GitHub  
-![GitHub Contributions](https://github-contributions.vercel.app/api?username=anaflaviapizati&format=long)
+![GitHub Streak](https://streak-stats.demolab.com?user=anaflaviapizati&theme=dark&hide_border=false)
 
 ## 📫 Contatos  
 <a href = "mailto:anaflaviapizati@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
