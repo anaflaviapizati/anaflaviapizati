@@ -22,7 +22,8 @@ Sou graduanda em Sistemas de Informação pela Universidade Federal de Ouro Pret
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 Contribuições no GitHub  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anaflaviapizati&theme=dark)](https://git.io/streak-stats)
+![](https://nirzak-streak-stats.vercel.app/?user=anaflaviapizati&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anaflaviapizati&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 📫 Contatos  
