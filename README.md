@@ -1,6 +1,6 @@
 ### Olá, me chamo Ana Flávia 👋  
 
-Sou graduanda em Sistemas de Informação pela Universidade Federal de Ouro Preto e estagiária de Desenvolvimento Full-Stack no Sicoob Credimepi.  
+Sou graduanda em Sistemas de Informação pela Universidade Federal de Ouro Preto e estagiária de Desenvolvimento Front End na Nomus ERP Industrial.  
 
 ## 🚀 Tecnologias que uso:
 
